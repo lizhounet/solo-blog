@@ -10,6 +10,7 @@ Alizhou-Blog
 
 ### 最新
 
+* [C# 9.0 正式发布了(转)](https://47.240.170.145/articles/2020/11/12/1605146340521.html)
 * [记录一次网站被人恶意镜像(恶意反向代理)的过程](https://47.240.170.145/articles/2020/10/27/1603774438726.html)
 * [我在 GitHub 上的开源项目](https://47.240.170.145/my-github-repos)
 * [Alizhou.Office-.NetCore 导入导出execl,根据word模板生成word](https://47.240.170.145/articles/2020/08/19/1597850920589.html)
@@ -29,7 +30,6 @@ Alizhou-Blog
 * [C# 利用ZXing.Net来生成条形码和二维码(转)](https://47.240.170.145/articles/2020/04/01/1585725351073.html)
 * [.net core 实现自动注入依赖关系](https://47.240.170.145/articles/2020/04/01/1585722726700.html)
 * [.net core dbfirst 从数据库更新实体](https://47.240.170.145/articles/2020/04/01/1585722498239.html)
-* [.net mvc 上传文件实时进度显示](https://47.240.170.145/articles/2020/04/01/1585722111045.html)
 
 
 

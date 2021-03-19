@@ -10,6 +10,7 @@ Alizhou-Blog
 
 ### 最新
 
+* [.net core docker 使用 Jenkins做自动化部署](https://47.240.170.145/articles/2021/03/19/1616117936905.html)
 * [Redis 缓存设计问题](https://47.240.170.145/articles/2021/02/23/1614074368542.html)
 * [分布式/微服务各理论基础](https://47.240.170.145/articles/2021/01/20/1611132755129.html)
 * [.net core 用redis实现分布式锁](https://47.240.170.145/articles/2021/01/19/1611053181109.html)
@@ -29,7 +30,6 @@ Alizhou-Blog
 * [rank() over,dense_rank() over,row_number() over的区别](https://47.240.170.145/articles/2020/04/01/1585728335477.html)
 * [C# Barrier使用](https://47.240.170.145/articles/2020/04/01/1585728259471.html)
 * [C#操作FTP帮助类](https://47.240.170.145/articles/2020/04/01/1585728135406.html)
-* [通俗易懂，什么是.NET?什么是.NET Framework？什么是.NET Core?](https://47.240.170.145/articles/2020/04/01/1585728084139.html)
 
 
 

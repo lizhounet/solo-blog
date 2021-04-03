@@ -10,6 +10,7 @@ Alizhou-Blog
 
 ### 最新
 
+* [Idea快捷键大全（Windows）](https://47.240.170.145/articles/2021/04/03/1617421208710.html)
 * [.net core docker 使用 Jenkins做自动化部署](https://47.240.170.145/articles/2021/03/19/1616117936905.html)
 * [Redis 缓存设计问题](https://47.240.170.145/articles/2021/02/23/1614074368542.html)
 * [分布式/微服务各理论基础](https://47.240.170.145/articles/2021/01/20/1611132755129.html)
@@ -29,7 +30,6 @@ Alizhou-Blog
 * [关于](https://47.240.170.145/about)
 * [rank() over,dense_rank() over,row_number() over的区别](https://47.240.170.145/articles/2020/04/01/1585728335477.html)
 * [C# Barrier使用](https://47.240.170.145/articles/2020/04/01/1585728259471.html)
-* [C#操作FTP帮助类](https://47.240.170.145/articles/2020/04/01/1585728135406.html)
 
 
 

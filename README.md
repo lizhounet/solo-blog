@@ -10,6 +10,7 @@ Alizhou-Blog
 
 ### 最新
 
+* [MySQL监控全部执行过的sql语句](https://47.240.170.145/articles/2021/07/13/1626156448829.html)
 * [Idea快捷键大全（Windows）](https://47.240.170.145/articles/2021/04/03/1617421208710.html)
 * [.net core docker 使用 Jenkins做自动化部署](https://47.240.170.145/articles/2021/03/19/1616117936905.html)
 * [Redis 缓存设计问题](https://47.240.170.145/articles/2021/02/23/1614074368542.html)
@@ -29,7 +30,6 @@ Alizhou-Blog
 * [搭建solo博客记录](https://47.240.170.145/articles/2020/04/01/1585736895879.html)
 * [关于](https://47.240.170.145/about)
 * [rank() over,dense_rank() over,row_number() over的区别](https://47.240.170.145/articles/2020/04/01/1585728335477.html)
-* [C# Barrier使用](https://47.240.170.145/articles/2020/04/01/1585728259471.html)
 
 
 

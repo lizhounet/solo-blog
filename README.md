@@ -10,6 +10,7 @@ Alizhou-Blog
 
 ### 最新
 
+* [docker 安装redis](https://47.240.170.145/articles/2021/09/10/1631262283650.html)
 * [如何管理MongoDB的用户和权限](https://47.240.170.145/articles/2021/09/06/1630922989646.html)
 * [MySQL监控全部执行过的sql语句](https://47.240.170.145/articles/2021/07/13/1626156448829.html)
 * [Idea快捷键大全（Windows）](https://47.240.170.145/articles/2021/04/03/1617421208710.html)
@@ -29,7 +30,6 @@ Alizhou-Blog
 * [.Net Core有哪些不错的开源项目](https://47.240.170.145/articles/2020/08/05/1596621223515.html)
 * [给Solo博客增加背景音乐功能](https://47.240.170.145/articles/2020/04/14/1586860158105.html)
 * [搭建solo博客记录](https://47.240.170.145/articles/2020/04/01/1585736895879.html)
-* [关于](https://47.240.170.145/about)
 
 
 

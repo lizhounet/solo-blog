@@ -10,6 +10,7 @@ Alizhou-Blog
 
 ### 最新
 
+* [Docker安装GitLab，Nginx反向代理Https](https://47.240.170.145/articles/2022/03/09/1646820919539.html)
 * [linux redis搭建一主两从三哨兵](https://47.240.170.145/articles/2021/09/28/1632796657491.html)
 * [docker 安装redis](https://47.240.170.145/articles/2021/09/10/1631262283650.html)
 * [如何管理MongoDB的用户和权限](https://47.240.170.145/articles/2021/09/06/1630922989646.html)
@@ -29,7 +30,6 @@ Alizhou-Blog
 * [Alizhou.Office-.NetCore 导入导出execl,根据word模板生成word](https://47.240.170.145/articles/2020/08/19/1597850920589.html)
 * [SwaggerUI看烦了，IGeekFan.AspNetCore.Knife4jUI 帮你换个新皮肤(转)](https://47.240.170.145/articles/2020/08/11/1597111856215.html)
 * [.Net Core有哪些不错的开源项目](https://47.240.170.145/articles/2020/08/05/1596621223515.html)
-* [给Solo博客增加背景音乐功能](https://47.240.170.145/articles/2020/04/14/1586860158105.html)
 
 
 
